@@ -1,0 +1,121 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(r) 6.0
+%%For: (Macromedia Flash) ()
+%%Title: (C:\Users\truef\QTProjects\QPitchEditor\QPitchEditor\images\FL\ModeGroupBtn1.ai)
+%%CreationDate: (01/20/21) (20:00:08)
+%%BoundingBox: 0 0 295 200
+%%HiResBoundingBox: 0.0 0.0 295.0 200.0
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_screens_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_blend_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 2.0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: 165 -282 680 82
+%AI3_DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_screens_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_blend_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_screens_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_blend_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+0 Bn
+%%EndSetup
+u
+*u
+1.000 g
+295.0 0.0 m
+295.0 200.0 L
+29.9 200.0 L
+23.3 200.0 17.8 198.8 13.4 196.5 C
+8.8 194.2 5.5 190.8 3.5 186.5 C
+1.1 182.2 0.0 176.7 0.0 170.0 C
+0.0 30.0 L
+0.0 10.0 10.0 0.0 29.9 0.0 C
+295.0 0.0 L
+f
+218.9 157.0 m
+220.8 157.8 222.8 157.7 224.7 156.8 C
+226.5 155.9 227.8 154.6 228.6 152.6 C
+229.3 150.7 229.2 148.8 228.3 146.8 C
+216.8 121.8 L
+216.7 121.6 216.5 121.3 216.3 121.0 C
+206.8 106.1 195.7 97.0 183.0 93.8 C
+182.9 93.8 182.9 93.8 182.8 93.7 C
+179.6 92.9 176.3 92.5 173.0 92.5 C
+122.5 92.5 L
+120.3 92.5 118.3 92.3 116.6 91.8 C
+116.5 91.8 116.5 91.8 116.5 91.8 C
+107.0 89.0 98.7 82.3 91.6 71.3 C
+80.3 46.9 L
+79.5 45.0 78.0 43.7 76.1 43.0 C
+74.2 42.3 72.3 42.4 70.4 43.2 C
+68.5 44.0 67.2 45.5 66.5 47.4 C
+65.8 49.4 65.8 51.3 66.7 53.1 C
+78.2 78.1 L
+78.3 78.5 78.5 78.8 78.7 79.0 C
+88.2 93.9 99.5 103.0 112.6 106.3 C
+115.5 107.1 118.8 107.5 122.5 107.5 C
+173.0 107.5 L
+175.1 107.5 177.2 107.8 179.2 108.3 C
+188.3 111.0 196.4 117.8 203.4 128.7 C
+214.7 153.1 L
+215.6 155.0 216.9 156.3 218.9 157.0 C
+f
+*U
+*u
+1.000 g
+224.7 156.8 m
+222.8 157.7 220.8 157.8 218.9 157.0 C
+216.9 156.3 215.6 155.0 214.7 153.1 C
+203.4 128.7 L
+196.4 117.8 188.3 111.0 179.2 108.3 C
+177.2 107.8 175.1 107.5 173.0 107.5 C
+122.5 107.5 L
+118.8 107.5 115.5 107.1 112.6 106.3 C
+99.5 103.0 88.2 93.9 78.7 79.0 C
+78.5 78.8 78.3 78.5 78.2 78.1 C
+66.7 53.1 L
+65.8 51.3 65.8 49.4 66.5 47.4 C
+67.2 45.5 68.5 44.0 70.4 43.2 C
+72.3 42.4 74.2 42.3 76.1 43.0 C
+78.0 43.7 79.5 45.0 80.3 46.9 C
+91.6 71.3 L
+98.7 82.3 107.0 89.0 116.5 91.8 C
+116.5 91.8 116.5 91.8 116.6 91.8 C
+118.3 92.3 120.3 92.5 122.5 92.5 C
+173.0 92.5 L
+176.3 92.5 179.6 92.9 182.8 93.7 C
+182.9 93.8 182.9 93.8 183.0 93.8 C
+195.7 97.0 206.8 106.1 216.3 121.0 C
+216.5 121.3 216.7 121.6 216.8 121.8 C
+228.3 146.8 L
+229.2 148.8 229.3 150.7 228.6 152.6 C
+227.8 154.6 226.5 155.9 224.7 156.8 C
+f
+*U
+U
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_blend_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_screens_AI5 /terminate get exec
+%Adobe_level2_AI5 /terminate get exec
+%%EOF

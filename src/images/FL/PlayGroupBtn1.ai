@@ -1,0 +1,68 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(r) 6.0
+%%For: (Macromedia Flash) ()
+%%Title: (C:\Users\truef\QTProjects\QPitchEditor\QPitchEditor\images\FL\playGroupBtn1.ai)
+%%CreationDate: (01/10/21) (20:40:09)
+%%BoundingBox: 0 0 200 200
+%%HiResBoundingBox: 0.0 0.0 200.0 200.0
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_screens_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_blend_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 2.0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: 118 -282 632 82
+%AI3_DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_screens_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_blend_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_screens_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_blend_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+0 Bn
+%%EndSetup
+u
+u
+*u
+1.000 g
+187.5 105.3 m
+186.2 109.1 183.8 112.0 180.4 113.9 C
+36.1 197.7 L
+32.6 199.8 28.9 200.4 25.0 199.8 C
+21.1 199.0 17.9 197.1 15.4 194.1 C
+12.8 191.1 11.5 187.6 11.5 183.6 C
+11.5 16.4 L
+11.5 12.4 12.8 8.8 15.4 5.8 C
+17.9 2.9 21.1 1.0 25.0 0.3 C
+28.9 -0.4 32.6 0.3 36.0 2.2 C
+180.3 85.6 L
+183.8 87.7 186.2 90.5 187.5 94.3 C
+188.9 98.0 188.9 101.7 187.5 105.3 C
+f
+*U
+U
+U
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_blend_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_screens_AI5 /terminate get exec
+%Adobe_level2_AI5 /terminate get exec
+%%EOF

@@ -1,0 +1,81 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(r) 6.0
+%%For: (Macromedia Flash) ()
+%%Title: (C:\Users\truef\QTProjects\QPitchEditor\QPitchEditor\images\FL\PlayGroupBtn5.ai)
+%%CreationDate: (01/12/21) (02:48:29)
+%%BoundingBox: 0 0 200 200
+%%HiResBoundingBox: 0.0 0.0 200.0 200.0
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_screens_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_blend_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 2.0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: 118 -282 632 82
+%AI3_DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_screens_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_blend_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_screens_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_blend_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+0 Bn
+%%EndSetup
+u
+u
+*u
+1.000 g
+67.1 199.8 m
+67.1 200.0 L
+26.5 200.0 L
+15.5 200.0 10.0 194.5 10.0 183.6 C
+10.0 16.4 L
+10.0 5.5 15.5 0.0 26.5 0.0 C
+67.1 0.0 L
+67.1 0.2 L
+75.7 1.4 80.0 6.8 80.0 16.4 C
+80.0 183.6 L
+80.0 193.3 75.7 198.7 67.1 199.8 C
+f
+*U
+*u
+1.000 g
+177.1 199.8 m
+177.1 200.0 L
+136.5 200.0 L
+125.5 200.0 120.0 194.5 120.0 183.6 C
+120.0 16.4 L
+120.0 5.5 125.5 0.0 136.5 0.0 C
+177.1 0.0 L
+177.1 0.2 L
+185.7 1.4 190.0 6.8 190.0 16.4 C
+190.0 183.6 L
+190.0 193.3 185.7 198.7 177.1 199.8 C
+f
+*U
+U
+U
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_blend_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_screens_AI5 /terminate get exec
+%Adobe_level2_AI5 /terminate get exec
+%%EOF

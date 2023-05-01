@@ -1,0 +1,135 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(r) 6.0
+%%For: (Macromedia Flash) ()
+%%Title: (C:\Users\truef\QTProjects\QPitchEditor\QPitchEditor\images\FL\ModeGroupBtn2.ai)
+%%CreationDate: (01/20/21) (20:00:20)
+%%BoundingBox: 0 0 295 200
+%%HiResBoundingBox: 0.0 0.0 295.0 200.0
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_screens_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_blend_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 2.0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: 165 -282 680 82
+%AI3_DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.0 0
+%%IncludeResource: procset Adobe_screens_AI5 1.0 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 0
+%%IncludeResource: procset Adobe_blend_AI5 1.0 0
+%%IncludeResource: procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_screens_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_blend_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+0 Bn
+%%EndSetup
+u
+*u
+1.000 g
+0.0 0.0 m
+295.0 0.0 L
+295.0 200.0 L
+0.0 200.0 L
+0.0 0.0 L
+f
+153.3 117.2 m
+154.8 111.5 155.3 105.9 155.0 100.3 C
+155.0 100.2 155.0 100.2 155.0 100.2 C
+155.0 99.8 L
+155.0 99.6 155.0 99.4 155.0 99.3 C
+154.7 95.1 155.1 90.9 156.3 86.8 C
+156.3 86.7 156.3 86.7 156.3 86.7 C
+158.1 80.2 161.3 76.7 166.0 76.3 C
+172.3 77.2 182.7 88.9 197.2 111.3 C
+219.6 149.1 L
+220.6 150.8 222.2 152.0 224.2 152.5 C
+226.1 153.1 228.0 152.8 229.8 151.7 C
+231.6 150.7 232.8 149.1 233.3 147.1 C
+233.8 145.1 233.5 143.2 232.4 141.4 C
+209.9 103.4 L
+209.9 103.3 209.8 103.3 209.8 103.2 C
+191.0 74.2 176.4 60.3 166.0 61.3 C
+154.0 60.8 145.9 68.0 141.8 82.7 C
+141.8 82.8 L
+140.3 88.5 139.7 94.1 140.0 99.8 C
+140.0 100.3 L
+140.0 100.4 140.0 100.6 140.1 100.8 C
+140.3 104.9 139.9 109.1 138.8 113.2 C
+138.8 113.3 138.8 113.3 138.8 113.3 C
+136.9 119.8 133.7 123.3 129.0 123.8 C
+122.8 122.8 112.3 111.1 97.8 88.7 C
+75.5 50.9 L
+74.4 49.1 72.8 48.0 70.9 47.5 C
+68.9 47.0 67.0 47.3 65.2 48.3 C
+63.4 49.4 62.3 50.9 61.8 52.9 C
+61.2 54.9 61.5 56.8 62.5 58.5 C
+85.0 96.5 L
+85.1 96.7 85.2 96.8 85.2 96.8 C
+104.0 125.8 118.6 139.8 129.0 138.8 C
+141.0 139.2 149.1 132.1 153.3 117.3 C
+153.3 117.2 L
+f
+*U
+*u
+1.000 g
+155.0 100.3 m
+155.3 105.9 154.8 111.5 153.3 117.2 C
+153.3 117.3 L
+149.1 132.1 141.0 139.2 129.0 138.8 C
+118.6 139.8 104.0 125.8 85.2 96.8 C
+85.2 96.8 85.1 96.7 85.0 96.5 C
+62.5 58.5 L
+61.5 56.8 61.2 54.9 61.8 52.9 C
+62.3 50.9 63.4 49.4 65.2 48.3 C
+67.0 47.3 68.9 47.0 70.9 47.5 C
+72.8 48.0 74.4 49.1 75.5 50.9 C
+97.8 88.7 L
+112.3 111.1 122.8 122.8 129.0 123.8 C
+133.7 123.3 136.9 119.8 138.8 113.3 C
+138.8 113.3 138.8 113.3 138.8 113.2 C
+139.9 109.1 140.3 104.9 140.1 100.8 C
+140.0 100.6 140.0 100.4 140.0 100.3 C
+140.0 99.8 L
+139.7 94.1 140.3 88.5 141.8 82.8 C
+141.8 82.7 L
+145.9 68.0 154.0 60.8 166.0 61.3 C
+176.4 60.3 191.0 74.2 209.8 103.2 C
+209.8 103.3 209.9 103.3 209.9 103.4 C
+232.4 141.4 L
+233.5 143.2 233.8 145.1 233.3 147.1 C
+232.8 149.1 231.6 150.7 229.8 151.7 C
+228.0 152.8 226.1 153.1 224.2 152.5 C
+222.2 152.0 220.6 150.8 219.6 149.1 C
+197.2 111.3 L
+182.7 88.9 172.3 77.2 166.0 76.3 C
+161.3 76.7 158.1 80.2 156.3 86.7 C
+156.3 86.7 156.3 86.7 156.3 86.8 C
+155.1 90.9 154.7 95.1 155.0 99.3 C
+155.0 99.4 155.0 99.6 155.0 99.8 C
+155.0 100.2 L
+155.0 100.2 155.0 100.2 155.0 100.3 C
+f
+*U
+U
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_blend_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_screens_AI5 /terminate get exec
+%Adobe_level2_AI5 /terminate get exec
+%%EOF
